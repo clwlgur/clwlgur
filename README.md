@@ -1,6 +1,6 @@
-# Welcome! This is GitHub in the CLoud!🎉
-Hello! I'm discord bot developer!
-I want to try web development!
+# 안녕하세요! 이 공간은 클라우드의 깃허브입니다!
+안녕하세요! 저는 클라우드라고 합니다.
+디스코드에서 봇을 개발하고 있습니다. 웹개발도 배우고 있어요!
 
 ## 🛠️ Stacks
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
