@@ -7,4 +7,10 @@ Python ← 사실 파이썬도 아직 잘 다루진 못합니다.
 
 ## 깃허브 인포
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=backspaceCL&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=backspaceCL&layout=compact&theme=tokyonight)
+
+## 링크&정보
+•[디스코드](https://discord.com/channels/@cloud2077_)
+•[노션](https://pickled-emperor-9ab.notion.site/e73cfebf5e174793a71b2e42caf59c17?pvs=4)
+메일: cloudspace1123@outlook.kr
