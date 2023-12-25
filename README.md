@@ -16,3 +16,5 @@ Python ← 사실 파이썬도 아직 잘 다루진 못합니다.
 •[Notion](https://pickled-emperor-9ab.notion.site/e73cfebf5e174793a71b2e42caf59c17?pvs=4)
 
 •[메일](cloudspace1123@outlook.kr)
+
+Updated on Dec 25
