@@ -3,7 +3,8 @@
 웹은 도전해보고 싶습니다!
 
 ## 프로그래밍 언어
-Python ← 사실 파이썬도 아직 잘 다루진 못합니다.
+# <img src="https://img.shields.io/badge/python-#3776AB?style=flat-square&logo=로고&logoColor=색상"/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> ← 사실 파이썬도 아직 잘 다루진 못합니다.
 
 ## 깃허브 인포
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=backspaceCL&show_icons=true&theme=tokyonight)
