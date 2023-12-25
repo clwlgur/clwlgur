@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
 ## 💪🏼 Tools
-<img src="https://img.shields.io/badge/visualstudiocode-#007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+
 
 ## Github Info
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=backspaceCL&show_icons=true&theme=tokyonight)
