@@ -13,6 +13,6 @@ Python ← 사실 파이썬도 아직 잘 다루진 못합니다.
 ## 링크&정보
 •[디스코드](https://discord.com/channels/@cloud2077_)
 
-•[노션](https://pickled-emperor-9ab.notion.site/e73cfebf5e174793a71b2e42caf59c17?pvs=4)
+•[Notion](https://pickled-emperor-9ab.notion.site/e73cfebf5e174793a71b2e42caf59c17?pvs=4)
 
-메일: cloudspace1123@outlook.kr
+•[메일](cloudspace1123@outlook.kr)
