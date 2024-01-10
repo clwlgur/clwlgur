@@ -22,3 +22,5 @@ Discord Bot Developer & Student
 •[Mail](cloudspace1123@outlook.kr)
 
 Updated on Dec 25
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:40c9ff,100:a82da8&height=230&section=footer&text=%&fontSize=60&fontColor=FCF8F2)
