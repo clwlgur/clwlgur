@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=&color=0:5EFCE8,100:736EFE&height=200&section=header&text=CLoud%20Github&fontSize=70&fontColor=B8E9FF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=&color=0:5EFCE8,100:736Eefe&height=200&section=header&text=CLoud%20Github&fontSize=70&fontColor=B8E9FF)
 
 # Print("Hello,World!")
 Hello, This is CLoud
