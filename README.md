@@ -21,8 +21,6 @@ Real Name = Header
 
 •[Notion](https://pickled-emperor-9ab.notion.site/e73cfebf5e174793a71b2e42caf59c17?pvs=4)
 
-•[Mail](cloudspace1123@outlook.kr)
-
 Updated on Dec 25
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:40c9ff,100:a82da8&height=230&section=footer&text=%&fontSize=60&fontColor=FCF8F2)
