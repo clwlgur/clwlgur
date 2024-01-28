@@ -18,9 +18,11 @@ Real Name = Header
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clwlgur&layout=compact&theme=tokyonight)
 
 ## Link
-•[Discord](https://discord.com/channels/@cloud2077_)
+•[Discord](https://discord.com/channels/@cloudkr_)
 
 •[Notion](https://pickled-emperor-9ab.notion.site/e73cfebf5e174793a71b2e42caf59c17?pvs=4)
+
+• Mail: cloudspace1123@outlook.kr
 
 Updated on Dec 25
 
