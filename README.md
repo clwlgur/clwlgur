@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:40c9ff,100:a82da8&height=230&section=header&text=Jihyeok%20Yoo&fontSize=60&fontColor=FCF8F2)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:40c9ff,100:a82da8&height=200&section=header&text=Jihyeok%20Yoo&fontSize=60&fontColor=FCF8F2)
 
 # Print("Hello,World!")
 Hello, This is CLoud
@@ -26,4 +26,4 @@ Real Name = Header
 
 Updated on Dec 25
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:40c9ff,100:a82da8&height=230&section=footer&text=%&fontSize=60&fontColor=FCF8F2)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:40c9ff,100:a82da8&height=200&section=footer&text=%&fontSize=60&fontColor=FCF8F2)
