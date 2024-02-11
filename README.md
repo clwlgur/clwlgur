@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:98a3a7,50:a82da8&height=200&section=header&text=Jihyeok%20Yoo&fontSize=60&fontColor=FCF8F2)
-
 # Print("Hello,World!")
 Hello, This is Gauss
 
@@ -24,6 +22,4 @@ Real Name = Header
 
 •[Mail](cloudspace1123@outlook.kr)
 
-Updated on Dec 25
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=100:98a3a7,100:a82da8&height=200&section=footer&text=%&fontSize=60&fontColor=FCF8F2)
+Updated on Feb 11
