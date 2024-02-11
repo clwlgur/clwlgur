@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+
 # Hello, World! 
 안녕하세요. 가우스 깃허브입니다.
 
@@ -22,3 +24,5 @@
 •[Mail](cloudspace1123@outlook.kr)
 
 Updated on Feb 11
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
