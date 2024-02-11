@@ -1,9 +1,8 @@
 # Print("Hello,World!")
-Hello, This is Gauss
+안녕하세요. 가우스 깃허브입니다.
 
-Discord Bot Developer & Student
-
-Real Name = Header
+디스코드 봇 개발 & 웹개발을 배우고 있습니다.
+평범한 학생입니다.
 
 ## 🛠️ Stacks
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
