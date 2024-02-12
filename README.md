@@ -16,10 +16,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clwlgur&layout=compact&theme=tokyonight)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=clwlgur)](https://solved.ac/clwlgur)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=clwlgur)](https://solved.ac/backspacecl)<br/>
 
 ## 🔗 Links
-•[Discord](https://discord.com/channels/@cloudkr_)
+•[Discord](https://discord.com/channels/@clwlgur)
 
 •[Notion](https://pickled-emperor-9ab.notion.site/e73cfebf5e174793a71b2e42caf59c17?pvs=4)
 
