@@ -23,7 +23,7 @@
 
 ## 🏬 Contact
 •Mail: jihyuk9287@gmail.com
-+ cloudspace1123@outlook.kr
++cloudspace1123@outlook.kr
 
 Updated on Feb 11
 
