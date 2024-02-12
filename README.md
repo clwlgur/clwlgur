@@ -21,7 +21,7 @@
 
 •[Notion](https://pickled-emperor-9ab.notion.site/e73cfebf5e174793a71b2e42caf59c17?pvs=4)
 
-•[Mail](cloudspace1123@outlook.kr)
+•Mail: jihyuk9287@gmail.com
 
 Updated on Feb 11
 
