@@ -16,7 +16,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clwlgur&layout=compact&theme=tokyonight)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=clwlgur)](https://solved.ac/backspacecl)<br/>
 
 ## 🔗 Links
 •[Discord](https://discord.com/channels/@clwlgur)
