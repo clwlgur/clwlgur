@@ -16,7 +16,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clwlgur&layout=compact&theme=tokyonight)
 
-## 🔗 Link
+## 🔗 Links
 •[Discord](https://discord.com/channels/@cloudkr_)
 
 •[Notion](https://pickled-emperor-9ab.notion.site/e73cfebf5e174793a71b2e42caf59c17?pvs=4)
