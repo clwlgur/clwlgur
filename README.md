@@ -7,7 +7,7 @@
 평범한 학생입니다.
 
 ## 🛠️ Stacks
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>   <img src="https://img.shields.io/badge/javascript-#F7DF1E?style=flat&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>   <img src="https://img.shields.io/badge/javascript-#F7DF1E?style=flat&logo=javascript&logoColor=white"/>
 
 ## 👨🏻‍💻 Tools
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/replit-F26207?style=flat-square&logo=replit&logoColor=white"/>
