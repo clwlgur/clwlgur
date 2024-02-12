@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
-# 🎉 {Hello, World!} 
+# 🎉{Hello, World!} 
 안녕하세요. 이 공간은 가우스 깃허브입니다.
 
 디스코드 봇 개발 & 웹개발을 배우고 있습니다.
