@@ -22,9 +22,9 @@
 •[Notion](https://pickled-emperor-9ab.notion.site/e73cfebf5e174793a71b2e42caf59c17?pvs=4)
 
 ## 🏬 Contact
-•Main: jihyuk9287@gmail.com
+•Main Mail: jihyuk9287@gmail.com
 
-•Sub: cloudspace1123@outlook.kr
+•Sub Mail: cloudspace1123@outlook.kr
 
 Updated on Feb 11
 
