@@ -1,4 +1,4 @@
-<img src="gaussbanner2" width="100%" height="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
 # 🎉{Hello, World!} 
 안녕하세요. 이 공간은 가우스 깃허브입니다.
