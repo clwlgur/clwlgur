@@ -1,4 +1,4 @@
-<img src="gausscoders.png" width="100%" height="100%">
+<img src="gausscoders.png" width="70%" height="70%">
 
 # 🎉{Hello, World!} 
 안녕하세요. 이 공간은 가우스 깃허브입니다.
