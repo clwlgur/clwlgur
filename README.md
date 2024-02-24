@@ -1,4 +1,4 @@
-<header><img src="Gauss_Coders_Banner_Github.png" width="70%" height="70%"></header>
+<header><img src="Gauss_Coders_Banner_Github.png" width="100%" height="100%"></header>
 
 # 🎉{Hello, World!} 
 안녕하세요. 이 공간은 가우스 깃허브 페이지입니다.
