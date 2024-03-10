@@ -9,7 +9,7 @@
 ## 🛠️ Stacks
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 
-자세한 건 [포트폴리오 사이트](https://devspec.xyz/) 에서 확인해주세요!
+자세한 건 [포트폴리오 사이트](https://rkdntm.xyz/) 에서 확인해주세요!
 
 ## 👨🏻‍💻 Tools
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/replit-F26207?style=flat-square&logo=replit&logoColor=white"/>
